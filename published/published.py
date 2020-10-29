@@ -31,4 +31,4 @@ class published(): # pylint: disable=C0103,R0903
         return self.published
 
 if __name__ == "__main__":
-    doctest.testmod()
+    doctest.testmod() # pragma: no cover
