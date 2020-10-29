@@ -4,7 +4,7 @@ published
 
 Python library that serves as an example/template for a package publishing guide.
 
-|pypi| |travis|
+|pypi| |travis| |coveralls|
 
 .. |pypi| image:: https://badge.fury.io/py/published.svg
    :target: https://badge.fury.io/py/published
@@ -12,6 +12,9 @@ Python library that serves as an example/template for a package publishing guide
 
 .. |travis| image:: https://travis-ci.com/python-supply/published.svg?branch=master
    :target: https://travis-ci.com/python-supply/published
+
+.. |coveralls| image:: https://coveralls.io/repos/github/python-supply/published/badge.svg?branch=master
+   :target: https://coveralls.io/github/python-supply/published?branch=master
 
 Purpose
 -------
