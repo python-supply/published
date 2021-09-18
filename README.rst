@@ -10,11 +10,11 @@ Python library that serves as an example/template for a package publishing guide
    :target: https://badge.fury.io/py/published
    :alt: PyPI version and link.
 
-.. |travis| image:: https://travis-ci.com/python-supply/published.svg?branch=master
+.. |travis| image:: https://travis-ci.com/python-supply/published.svg?branch=main
    :target: https://travis-ci.com/python-supply/published
 
-.. |coveralls| image:: https://coveralls.io/repos/github/python-supply/published/badge.svg?branch=master
-   :target: https://coveralls.io/github/python-supply/published?branch=master
+.. |coveralls| image:: https://coveralls.io/repos/github/python-supply/published/badge.svg?branch=main
+   :target: https://coveralls.io/github/python-supply/published?branch=main
 
 Purpose
 -------
@@ -33,7 +33,7 @@ The library can be imported in the usual ways::
 
 Testing and Conventions
 -----------------------
-All unit tests are executed and their coverage is measured when using `nose <https://nose.readthedocs.io/>`_ (see ``setup.cfg`` for configution details)::
+All unit tests are executed and their coverage is measured when using `nose <https://nose.readthedocs.io/>`_ (see ``setup.cfg`` for configuration details)::
 
     nosetests
 
